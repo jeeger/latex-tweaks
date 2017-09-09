@@ -8,3 +8,10 @@ Some latex tweaks that I've collected over my time writing LaTeX documents. The 
  - Aligning the current environment (useful for tables).
 
 A detailed writeup on the code is available [here](https://thenybble.de/projects/inhibit-auto-fill.html).
+
+# Usage
+
+```
+(require 'latex-tweaks)
+(LaTeX-tweaks-insinuate)
+```
